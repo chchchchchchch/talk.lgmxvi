@@ -59,66 +59,6 @@
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath13778">
-      <path
-         style="opacity:0.5;color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 170,627 552,0 0,60 -552,0 z"
-         id="path13780"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath13784">
-      <path
-         style="opacity:0.5;color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 170,555 552,0 0,50 -552,0 z"
-         id="path13786"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath13790">
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path13792"
-         d="m 170,509 552,0 0,18 -552,0 z"
-         style="opacity:0.5;color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath13796">
-      <path
-         style="opacity:0.5;color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 170,409 552,0 0,78 -552,0 z"
-         id="path13798"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath13802">
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path13804"
-         d="m 170,362 552,0 0,29 -552,0 z"
-         style="opacity:0.5;color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath13806">
-      <path
-         style="opacity:0.5;color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 170,32 552,0 0,191 -552,0 z"
-         id="path13808"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
        id="clipPath13778-6">
       <path
          style="opacity:0.5;color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -484,7 +424,7 @@
        y="149"
        x="346"
        id="image8171"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411104041-020.gif"
+       xlink:href="src/20160411104041-020.gif"
        height="411"
        width="332" />
   </g>
@@ -862,7 +802,7 @@
        y="0"
        x="0"
        id="image11356"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/8757-010.jpg"
+       xlink:href="src/8757-010.jpg"
        height="768"
        width="1024" />
   </g>
@@ -1007,7 +947,7 @@
          style="fill:#ececec">Something I've been</flowPara><flowPara
          id="flowPara6460"
          style="fill:#ececec">excited about since then.</flowPara></flowRoot>    <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409183553-010.png"
+       
        xlink:href="src/20160409183553-010.png"
        width="816"
        height="681"
@@ -1034,7 +974,7 @@
     <image
        width="816"
        height="681"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409183452-010.png"
+       xlink:href="src/20160409183452-010.png"
        id="image11763"
        x="104"
        y="34" />
@@ -1185,7 +1125,7 @@
        y="10"
        x="160"
        id="image11828"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411110915-010.png"
+       xlink:href="src/20160411110915-010.png"
        height="743"
        width="703" />
     <text
@@ -1222,7 +1162,7 @@
        y="15"
        x="155"
        id="image11947"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411111205-010.png"
+       xlink:href="src/20160411111205-010.png"
        height="723"
        width="686" />
     <text
@@ -1245,7 +1185,7 @@
     <image
        width="686"
        height="723"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411111205-010.png"
+       xlink:href="src/20160411111205-010.png"
        id="image12413"
        x="155"
        y="15"
@@ -1443,7 +1383,7 @@
        y="33"
        x="97"
        id="image12502"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409185242-020.png"
+       xlink:href="src/20160409185242-020.png"
        height="701"
        width="830"
        clip-path="url(#clipPath12508)"
@@ -1452,7 +1392,7 @@
        clip-path="url(#clipPath12516)"
        width="830"
        height="701"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409185242-020.png"
+       xlink:href="src/20160409185242-020.png"
        id="image12512"
        x="97"
        y="33"
@@ -1523,7 +1463,7 @@
        y="13"
        x="166"
        id="image12581-4-2"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       xlink:href="src/20160411162712-010.png"
        height="720"
        width="560" />
     <path
@@ -1537,7 +1477,7 @@
        y="13"
        x="166"
        id="image12581-4-8-3"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       xlink:href="src/20160411162712-010.png"
        height="720"
        width="560"
        clip-path="url(#clipPath13806-3)"
@@ -1545,7 +1485,7 @@
     <image
        width="560"
        height="720"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       xlink:href="src/20160411162712-010.png"
        id="image13800-2"
        x="166"
        y="13"
@@ -1555,7 +1495,7 @@
     <image
        width="560"
        height="720"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       xlink:href="src/20160411162712-010.png"
        id="image13794-7"
        x="166"
        y="13"
@@ -1565,7 +1505,7 @@
     <image
        width="560"
        height="720"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       xlink:href="src/20160411162712-010.png"
        id="image13788-3"
        x="166"
        y="13"
@@ -1575,7 +1515,7 @@
     <image
        width="560"
        height="720"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       xlink:href="src/20160411162712-010.png"
        id="image13782-1"
        x="166"
        y="13"
@@ -1585,7 +1525,7 @@
     <image
        width="560"
        height="720"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       xlink:href="src/20160411162712-010.png"
        id="image13776-4"
        x="166"
        y="13"
@@ -1653,7 +1593,7 @@
       <image
          width="715"
          height="732"
-         xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174322-010.png"
+         xlink:href="src/20160409174322-010.png"
          id="image12648-0-1"
          x="128"
          y="16"
@@ -1825,8 +1765,8 @@
        style="display:inline"
        id="g14167">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409183553-010.png"
-         xlink:href="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409183553-010.png"
+         
+         xlink:href="src/20160409183553-010.png"
          style="display:inline"
          y="34"
          x="104"
@@ -1936,7 +1876,7 @@
       <image
          width="913"
          height="706"
-         xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174818-010.png"
+         xlink:href="src/20160409174818-010.png"
          id="image13510-7-3-82-2"
          x="55"
          y="31"
@@ -2070,7 +2010,7 @@
          y="31"
          x="55"
          id="image8375"
-         xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174818-010.png"
+         xlink:href="src/20160409174818-010.png"
          height="706"
          width="913" />
       <path
@@ -2250,7 +2190,7 @@
          y="16"
          x="128"
          id="image8463"
-         xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174322-010.png"
+         xlink:href="src/20160409174322-010.png"
          height="732"
          width="715" />
     </g>
@@ -2316,7 +2256,7 @@
       <image
          width="913"
          height="706"
-         xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174818-010.png"
+         xlink:href="src/20160409174818-010.png"
          id="image13510-7-3"
          x="55"
          y="31"
@@ -2441,7 +2381,7 @@
       <image
          width="715"
          height="732"
-         xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174322-010.png"
+         xlink:href="src/20160409174322-010.png"
          id="image12648-0-1-5"
          x="128"
          y="16"
@@ -2618,7 +2558,7 @@
          y="31"
          x="55"
          id="image8231"
-         xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174818-010.png"
+         xlink:href="src/20160409174818-010.png"
          height="706"
          width="913" />
       <path
@@ -2744,7 +2684,7 @@
       <image
          width="715"
          height="732"
-         xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174322-010.png"
+         xlink:href="src/20160409174322-010.png"
          id="image12648-0-6"
          x="128"
          y="16"
@@ -2888,7 +2828,7 @@
       <image
          width="913"
          height="706"
-         xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174818-010.png"
+         xlink:href="src/20160409174818-010.png"
          id="image13510"
          x="55"
          y="31" />
@@ -2965,7 +2905,7 @@
       <image
          width="913"
          height="706"
-         xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174818-010.png"
+         xlink:href="src/20160409174818-010.png"
          id="image13510-7-3-82"
          x="55"
          y="31"
@@ -3150,8 +3090,8 @@
        id="g14153"
        transform="translate(1050,0)">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409183553-010.png"
-         xlink:href="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409183553-010.png"
+         
+         xlink:href="src/20160409183553-010.png"
          style="display:inline"
          y="34"
          x="104"
@@ -3176,7 +3116,7 @@
       <image
          width="913"
          height="706"
-         xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174818-010.png"
+         xlink:href="src/20160409174818-010.png"
          id="image13510-7-3-0"
          x="55"
          y="31"
@@ -3325,7 +3265,7 @@
       <image
          width="715"
          height="732"
-         xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174322-010.png"
+         xlink:href="src/20160409174322-010.png"
          id="image12648"
          x="128"
          y="16" />
@@ -3440,7 +3380,7 @@
        y="13"
        x="166"
        id="image12581-4-2-5"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       xlink:href="src/20160411162712-010.png"
        height="720"
        width="560" />
     <path
@@ -3454,7 +3394,7 @@
        y="13"
        x="166"
        id="image12581-4-8-3-7"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       xlink:href="src/20160411162712-010.png"
        height="720"
        width="560"
        clip-path="url(#clipPath13806-3-0)"
@@ -3462,7 +3402,7 @@
     <image
        width="560"
        height="720"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       xlink:href="src/20160411162712-010.png"
        id="image13800-2-4"
        x="166"
        y="13"
@@ -3472,7 +3412,7 @@
     <image
        width="560"
        height="720"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       xlink:href="src/20160411162712-010.png"
        id="image13794-7-0"
        x="166"
        y="13"
@@ -3482,7 +3422,7 @@
     <image
        width="560"
        height="720"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       xlink:href="src/20160411162712-010.png"
        id="image13788-3-1"
        x="166"
        y="13"
@@ -3492,7 +3432,7 @@
     <image
        width="560"
        height="720"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       xlink:href="src/20160411162712-010.png"
        id="image13782-1-3"
        x="166"
        y="13"
@@ -3502,7 +3442,7 @@
     <image
        width="560"
        height="720"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       xlink:href="src/20160411162712-010.png"
        id="image13776-4-2"
        x="166"
        y="13"
@@ -3559,7 +3499,7 @@
        y="13"
        x="166"
        id="image12581-4-1"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       xlink:href="src/20160411162712-010.png"
        height="720"
        width="560" />
     <path
@@ -3774,7 +3714,7 @@
      inkscape:label="00755"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409185047-010.png"
+       
        xlink:href="src/20160409185047-010.png"
        y="18"
        x="159"
@@ -3806,7 +3746,7 @@
      id="g3089"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409185047-010.png"
+       
        xlink:href="src/20160409185047-010.png"
        width="715"
        height="732"
@@ -3859,7 +3799,7 @@
          id="flowPara16407">passed the manuscript to others for typesetting</flowPara><flowPara
          style="font-size:20px;font-style:italic;-inkscape-font-specification:Roboto Mono Medium Italic"
          id="flowPara16409">by hand. </flowPara></flowRoot>    <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409185047-010.png"
+       
        xlink:href="src/20160409185047-010.png"
        y="18"
        x="159"
@@ -3932,7 +3872,7 @@
        y="259"
        x="283"
        id="image16484"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411212026.png"
+       xlink:href="src/20160411212026.png"
        height="269"
        width="368" />
     <image
@@ -3943,8 +3883,8 @@
        x="159"
        y="18"
        style="display:inline"
-       xlink:href="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409185047-010.png"
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409185047-010.png"
+       xlink:href="src/20160409185047-010.png"
+       
        transform="translate(0,-90)" />
   </g>
   <g
@@ -3997,7 +3937,7 @@
        y="18"
        x="102"
        id="image16534"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411100604-010.jpg"
+       xlink:href="src/20160411100604-010.jpg"
        height="726"
        width="780" />
     <flowRoot
@@ -4088,7 +4028,7 @@
        y="13"
        x="271"
        id="image16584"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411144301-010.png"
+       xlink:href="src/20160411144301-010.png"
        height="742"
        width="482" />
     <path
@@ -4100,7 +4040,7 @@
     <image
        width="482"
        height="742"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411144301-010.png"
+       xlink:href="src/20160411144301-010.png"
        id="image10234"
        x="271"
        y="13" />
@@ -4138,7 +4078,7 @@
        y="-887"
        x="271"
        id="image16584-0-4"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411144301-010.png"
+       xlink:href="src/20160411144301-010.png"
        height="742"
        width="482" />
     <path
@@ -4151,7 +4091,7 @@
        style="display:inline"
        width="482"
        height="742"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411144301-010.png"
+       xlink:href="src/20160411144301-010.png"
        id="image10234-3-3"
        x="271"
        y="13"
@@ -4227,7 +4167,7 @@
     <image
        width="482"
        height="742"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411144301-010.png"
+       xlink:href="src/20160411144301-010.png"
        id="image16754"
        x="91"
        y="13" />
@@ -4270,7 +4210,7 @@
        y="63"
        x="533"
        id="image16827"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411144413-010.gif"
+       xlink:href="src/20160411144413-010.gif"
        height="741"
        width="511" />
   </g>
@@ -5877,7 +5817,7 @@
     <image
        width="744"
        height="696"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411172422-010.png"
+       xlink:href="src/20160411172422-010.png"
        id="image12310"
        x="142"
        y="-61" />
@@ -5939,7 +5879,7 @@
        y="-61"
        x="-8"
        id="image12124"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411172422-010.png"
+       xlink:href="src/20160411172422-010.png"
        height="696"
        width="744" />
     <flowRoot
@@ -5993,7 +5933,7 @@
        y="289"
        x="372"
        id="image12187"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411173300-010.png"
+       xlink:href="src/20160411173300-010.png"
        height="550"
        width="828"
        clip-path="url(#clipPath12193)"
@@ -6032,7 +5972,7 @@
        y="0"
        x="0"
        id="image18050"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/8959-010.jpg"
+       xlink:href="src/8959-010.jpg"
        height="768"
        width="1024" />
   </g>
@@ -6045,7 +5985,7 @@
        y="21"
        x="1084"
        id="image17898"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412173253-010.png"
+       xlink:href="src/20160412173253-010.png"
        height="732"
        width="853" />
     <g
@@ -6057,7 +5997,7 @@
          y="20"
          x="40"
          id="image17966"
-         xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412173003-010.png"
+         xlink:href="src/20160412173003-010.png"
          height="621"
          width="623" />
       <image
@@ -6065,7 +6005,7 @@
          clip-path="url(#clipPath17986)"
          width="623"
          height="621"
-         xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412173003-010.png"
+         xlink:href="src/20160412173003-010.png"
          id="image17960"
          x="40"
          y="-510" />
@@ -6079,7 +6019,7 @@
          transform="translate(-107,-191)"
          width="623"
          height="621"
-         xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412173003-010.png"
+         xlink:href="src/20160412173003-010.png"
          id="image17972"
          x="40"
          y="20"
@@ -8769,7 +8709,7 @@
        y="63"
        x="686"
        id="image6561"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412202131-010.gif"
+       xlink:href="src/20160412202131-010.gif"
        height="658"
        width="514"
        clip-path="url(#clipPath7592)"
@@ -8777,7 +8717,7 @@
     <image
        width="514"
        height="658"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412202131-010.gif"
+       xlink:href="src/20160412202131-010.gif"
        id="image7586"
        x="686"
        y="63"
@@ -9535,7 +9475,7 @@
        y="-1"
        x="55"
        id="image8880"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409182319-010.png"
+       xlink:href="src/20160409182319-010.png"
        height="769"
        width="913" />
     <flowRoot
@@ -9570,7 +9510,7 @@
     <image
        width="913"
        height="769"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409182319-010.png"
+       xlink:href="src/20160409182319-010.png"
        id="image8923"
        x="55"
        y="-1" />
@@ -9655,7 +9595,7 @@
        y="-1"
        x="55"
        id="image9112"
-       xlink:href="file:///home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409182319-010.png"
+       xlink:href="src/20160409182319-010.png"
        height="769"
        width="913" />
     <path
