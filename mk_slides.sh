@@ -32,12 +32,17 @@
      grep "ape:label=\"$LAYER\"" $TMP  >> ${FILENAME}.tmp.svg
      echo "</svg>"                     >> ${FILENAME}.tmp.svg
 
-  #  inkscape --export-png=$OUTDIR/${FILENAME}.png \
-  #           ${FILENAME}.tmp.svg
+     inkscape --export-png=$OUTDIR/${FILENAME}.png \
+              ${FILENAME}.tmp.svg
+
+     inkscape --export-png=$OUTDIR/description/${FILENAME}.png \
+              --export-area=-1024:0:0:768 \
+              ${FILENAME}.tmp.svg
 
      inkscape --export-png=$OUTDIR/x2/${FILENAME}.png \
               --export-area=-1024:0:1024:768 \
               ${FILENAME}.tmp.svg
+
  done
 
  rm *.tmp.svg $TMP
