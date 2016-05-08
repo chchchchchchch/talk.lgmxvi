@@ -19,3 +19,6 @@ learnings behind the process of making a book making workflow
 within and through a networked environment based on f/l/os software.
 
 
+MORE INFORMATION: http://freeze.sh/_/2016/london
+
+
