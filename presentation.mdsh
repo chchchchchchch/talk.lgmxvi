@@ -1,0 +1,476 @@
+% -----------
+% _/00100.png
+% FLOIN: 
+
+Today I want to talk about a project that I've been working on lately.
+
+
+% -----------
+% _/00150.png
+% _/00206.png
+% FLOIN:
+
+% It's a book
+% to explore ways
+% how to make a book.
+
+The book collects documentation, ideas, software, graphic design and 
+experiments made with free software between 2008 and 2016. This collection 
+is complemented by inspirational writings on different aspects of free 
+culture generously made available by their authors under copyleft licenses.
+
+% -----------
+% _/00250.png
+% _/00252.png
+% _/00254.png
+% _/00256.png
+% _/00258.png
+% _/00262.png
+% _/00264.png
+% _/00266.png
+% _/00268.png
+% _/00270.png
+% _/00280.png
+% _/00284.png
+% _/00286.png
+% _/00290.png
+% _/00300.png
+% _/00302.png
+% _/00312.png
+% _/00318.png
+% _/00320.png
+% _/00324.png
+% _/00326.png
+% _/00338.png
+% _/00342.png
+% _/00350.png
+% _/00352.png
+% FLOIN:
+
+Unfortunately it is not completely finished right now.
+These are images from the first proof.
+
+% -----------
+% _/00390.png
+% FLOIN:
+
+The setup for this project is connected to an ongoing attempt, which
+is to find a personal approach to do layout in the sense of developing
+a practise that may include questioning the current status quo from
+and within digital publishing.
+
+% -----------
+% _/00400.png
+% FLOIN:
+
+There were some references (or better preferences) I had in mind when 
+starting this. I was imagining something not too different from HTML.
+HTML has been for me the first exposure to the possibilities to write
+code to create visual form. Something I've been excited about since then.
+
+% -----------
+% _/00410.png
+% _/00412.png
+% FLOIN:
+
+**BUT**: It should be a little bit different to read and write.
+(_Still finding out what this means exactly_)
+
+% -----------
+% _/00415.png
+% FLOIN:
+
+**AND**: It should work for print.
+
+% -----------
+% _/00420.png
+% FLOIN:
+
+About 2 years ago I wrote a little `etherpad2pdf` utility.
+
+% -----------
+% _/00450.png
+% _/00454.png
+% FLOIN:
+
+Basically a more or less standard `pandoc` procedure.
+
+% -----------
+% _/00458.png
+% FLOIN:
+
+_to not forget this completely
+as I will mention more often:_
+
+[PANDOC  IS A HASKELL LIBRARY FOR CONVERTING
+FROM ONE MARKUP FORMAT TO ANOTHER, AND A COMMAND-LINE
+TOOL THAT USES THIS LIBRARY.](http://freeze.sh/man/pandoc)
+
+% -----------
+% _/00459.png
+% FLOIN:
+
+It became clear that this was going into the right direction.
+
+% -----------
+% _/00460.png
+% FLOIN:
+
+Direction means:
+
+- a lightweight markup language that is easy to read and edit
+  in its raw form
+- this simple markup will be translated in the next step into
+  a more powerful and complex markup language (as LaTeX)
+- this more complex markup should be a widespread standard 
+  to have access and support for a bigger range of tools.
+
+**BUT**: I had the ambition for a little more complexity
+         than what seemed possible with standard markdown.
+
+% -----------
+% _/00500.png
+% FLOIN:
+
+The first thing I was really missing when using markdown was the 
+possibility to have comments. Comments are more or less standard for most 
+types of source code. This means you may have some kind of information 
+written within the text which is not part of the actual output. Normally 
+I'd use comments:
+
+- to describe something
+- to remember something
+- to disable parts without deleting
+
+% -----------
+% _/00595.png
+% _/00605.png
+% FLOIN:
+
+Unfortunately standard markdown has no comments...
+
+% -----------
+% _/00700.png
+% FLOIN:
+
+...so I decided to add the possibility to have comments
+just as some plugged-on functionality.
+
+% -----------
+% _/00705.png
+% FLOIN:
+
+This meant: instead of processing the markdown source directly...
+
+% -----------
+% _/00715.png
+% FLOIN:
+
+...all lines starting with a `%` sign have to be removed first.
+
+% -----------
+% _/00720.png
+% FLOIN:
+
+This hack also gave me a first idea about how things might work.
+Motivated by the simplicity of this comment option,
+I decided to pick up an original idea of markup.
+
+% -----------
+% _/00760.png
+% FLOIN:
+
+
+As described on wikipedia:
+
+> The term markup is derived from
+> the traditional publishing practice
+> of "marking up" a manuscript,
+> which involves adding handwritten
+> annotations in the form of conventional
+> symbolic printer's instructions in the
+> margins and text of a paper manuscript
+> or printed proof. For centuries, this
+> task was done primarily by skilled
+> typographers known as "markup men"
+> or "copy markers" who marked up text
+> to indicate what typeface, style, and size
+> should be applied to each part, and then
+> passed the manuscript to others for typesetting
+> by hand. 
+> [*](https://en.wikipedia.org/wiki/Markup_language)
+
+% -----------
+% _/00765.png
+% FLOIN:
+
+**or shorter**: instructions describing the form of the
+content are written along the content as comments.
+
+% -----------
+% _/00770.png
+% _/00775.png
+% FLOIN:
+
+As I was not planning to pass the manuscript to others for typesetting
+by hand I had to deal with the question: 
+
+_How will the instructions be understood and handled?_
+
+% -----------
+% _/00800.png
+% FLOIN:
+
+The basic translation from markdown to LaTeX is handled by `pandoc`.
+The translation of the _instructions_ needs to be done separately.
+I decided  to handle this by creating a dictionary, where
+`'whoever is in charge'` could look up what should be done.
+
+% -----------
+% _/00850.png
+% FLOIN:
+
+% IMPORTANT: the vocabulary is not final,
+%            the dictionary is never finished.
+% -----------
+% _/00952.png
+% FLOIN:
+
+The vocabulary may be extended by adding new instructions to the dictionary
+just as needed. Instructions that don't exist in the dictionary will be ignored.
+
+% -----------
+% _/00870.png
+% _/00980.png
+% _/00975.png
+% FLOIN:
+
+Most instructions were not developed in advance, but written as 
+they were needed. Some of these instructions made more sense and where 
+used quite often. Others were too specific or unflexible and just 
+disapeared.
+
+% -----------
+% _/01000.png
+% _/01005.png
+% _/01010.png
+% _/01012.png
+% _/01016.png
+% _/01021.png
+% FLOIN:
+
+This is a list of instructions/functions made until today. Some of them 
+have telling names, that's the more ideal case. Some of them are more 
+cryptic.
+
+% -----------
+% _/01025.png
+% FLOIN:
+
+Different dictionaries allow different translations. In the beginning the 
+dictionaries were intended to extend and change the vocabulary on-the-fly...
+
+% -----------
+% _/01026.png
+% FLOIN:
+
+...but they proofed quite practical to support different output formats. 
+
+% -----------
+% _/01028.png
+% _/01030.png
+% FLOIN:
+
+
+Different dictionaries define instructions according to the
+requirements of different output formats.
+Some instructions should produce a similar effect, although there may 
+happen quite different things in the background.
+
+% -----------
+% _/01050.png
+% FLOIN:
+
+Other instructions were created with a specific output in mind.
+A very targeted behaviour for example is everything related to pages.
+
+% -----------
+% _/01100.png
+% FLOIN:
+
+E.g. the `% CLEARTORIGHT` instruction pushes the content to the next right
+page when making a book. But there are no left and right pages in HTML. 
+
+% -----------
+% _/01110.png
+% FLOIN:
+% _/01120.png
+
+When defining the dictionary for the HTML output 
+`% CLEARTORIGHT` could be either ignored or I can think about the wanted
+effect of `% CLEARTORIGHT` and try to find an equivalent
+e.g. _insert vertical space_.
+
+**AND AGAIN**: the dictionary may changed or extended while writing.
+               There is no definitive vocabulary,
+               there is no definitive meaning.
+
+
+% HTMLIN: <hr class="break"/>
+
+%_What do we have?_
+WHAT DO WE HAVE?
+
+% -----------
+% _/01150.png
+% F!LOIN:
+
+- shared source code
+- translated according to different dictionaries
+- leading to different output
+
+_Shared source code_ means that sources may be and are shared for 
+different output formats, in parts but not necessarily as a whole.
+
+% -----------
+% _/01200.png
+% _/01210.png
+% FLOIN:
+
+A core functionality and prerequisite for the 'shared source' approach is 
+the `% INCLUDE` instruction, which, as it says, allows to include parts of 
+source files, based on line numbers (_btw: this is far from new_). This 
+allows to store a resource once, yet distributing it for reuse in multiple 
+documents.
+
+% -----------
+% _/01250.png
+% FLOIN:
+
+To include by line numbers is actually a big potential problem, because it 
+presumes that the source does not change. This is not so nice (and close to 
+impossible to ensure) when working within collaborative settings.
+
+% -----------
+% _/01255.png
+% FLOIN:
+
+But there is something like an happy accident, at least something that was
+not planned from the beginning, but seems more and more crucial to make the 
+whole thing work. (+ _it makes it much more interesting_)
+
+Since using mostly remote sources from etherpad and git ...
+
+% -----------
+% _/01290.png
+% FLOIN:
+
+... it really makes no difference if I refer to a file or 
+to a specific version of a file.
+
+% -----------
+% _/01300.png
+% FLOIN:
+
+% -----------
+% _/01310.png
+% FLOIN:
+
+This can be mixed. There can be material which is always at its latest 
+state, with the advantage and disadvantage that it can change. And there 
+can be material as it was at a specific moment in time. To make it even 
+more complex: versions in time may refer to versions in time. This works 
+basically for anything in a git repository.
+
+% -----------
+% _/01320.png
+% FLOIN:
+
+What you can see here is the current source for the book.
+
+% -----------
+% _/01322.png
+% FLOIN:
+
+Distributed across the network ...    
+...frozen in time.
+
+% -----------
+% _/01324.png
+% FLOIN:
+
+
+
+From making a bookmaking workflow...
+
+% -----------
+% _/01350.png
+% FLOIN:
+
+...I moved more and more towards imagining a source format...
+
+% -----------
+% _/01357.png
+% FLOIN:
+
+...which is in a way disconnected from how it will exactly be processed.
+
+To round this up I want to show 2 practises that
+developed along the imagined `.mdsh` source format.
+
+% -----------
+% _/01420.png
+% FLOIN:
+
+Number one is the use of the Libre Office as a WYSIWYG interface to create 
+and edit the source files. While the idea was primarily to not force the 
+editors into my workflow, it also easified versioning and inclusion within 
+the rest of the setup. Libre Office became one more player within the 
+workflow. It was added as an interface, but not meant to replace anything.
+
+% -----------
+% _/01430.png
+% FLOIN:
+
+% -----------
+% _/01452.png
+% FLOIN:
+
+The second idea is inspired by discussions about the dominance of plain 
+text culture. It's a interface based on hotglue made for the very specific 
+task to sort and select posters from huge collections. While it is a 
+visual approach, it is not WYSIWYG.
+Plain text is generated according to relations created visually.
+
+% -----------
+% _/01456.png
+% _/01458.png
+% FLOIN:
+
+Within both approaches plain text still plays a central role, but not so 
+much for editing but as an intermediary format.
+And that's where I'm coming back to the title of this talk and I will try 
+to add some explanation. 
+Instead of searching or even programming the one killer application...
+
+% -----------
+% _/01510.png
+% FLOIN:
+
+...my biggest interest at the moment is to create and move 
+through layers of different complexities.
+
+% -----------
+% _/01676.png
+% FLOIN:
+
+And that's a thing I've learned while using GNU's `Bourne-Again-SHell`.
+
+% -----------
+% _/01680.png
+% FLOIN:
+
+% -----------
+% _/01700.png
+% FLOIN:
+
