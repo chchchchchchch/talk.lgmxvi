@@ -462,7 +462,7 @@
            style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:140.99999666%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto Mono;-inkscape-font-specification:Roboto Mono Medium" /></flowRegion><flowPara
          id="flowPara7819">:~$ echo `echo Hello LGM\!`</flowPara><flowPara
          id="flowPara7821">    Hello LGM!</flowPara></flowRoot>    <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411104041-020.gif"
+       
        xlink:href="src/20160411104041-020.gif"
        width="332"
        height="411"
@@ -760,7 +760,7 @@
          id="flowPara6915">made with free software</flowPara><flowPara
          id="flowPara12748"
          style="fill:#00ff00">between 2008 and 2016.</flowPara></flowRoot>    <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8756-010.jpg"
+       
        xlink:href="src/8756-010.jpg"
        y="0"
        x="0"
@@ -774,7 +774,7 @@
      inkscape:label="00250"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8756-010.jpg"
+       
        xlink:href="src/8756-010.jpg"
        width="1024"
        height="768"
@@ -788,7 +788,7 @@
      inkscape:label="00251"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8757-010.jpg"
+       
        xlink:href="src/8757-010.jpg"
        width="1024"
        height="768"
@@ -824,7 +824,7 @@
      inkscape:label="00252"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8758-010.jpg"
+       
        xlink:href="src/8758-010.jpg"
        width="1024"
        height="768"
@@ -860,7 +860,7 @@
      inkscape:label="00253"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8761-010.jpg"
+       
        xlink:href="src/8761-010.jpg"
        width="1024"
        height="768"
@@ -896,7 +896,7 @@
      inkscape:label="00254"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8763-010.jpg"
+       
        xlink:href="src/8763-010.jpg"
        width="1024"
        height="768"
@@ -932,7 +932,7 @@
      inkscape:label="00255"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8765-010.jpg"
+       
        xlink:href="src/8765-010.jpg"
        width="1024"
        height="768"
@@ -974,7 +974,7 @@
      inkscape:label="00256"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8770-010.jpg"
+       
        xlink:href="src/8770-010.jpg"
        width="1024"
        height="768"
@@ -1010,7 +1010,7 @@
      inkscape:label="00258"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8776-010.jpg"
+       
        xlink:href="src/8776-010.jpg"
        width="1024"
        height="768"
@@ -1046,7 +1046,7 @@
      inkscape:label="00260"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8772-010.jpg"
+       
        xlink:href="src/8772-010.jpg"
        width="1024"
        height="768"
@@ -1082,7 +1082,7 @@
      inkscape:label="00262"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8771-010.jpg"
+       
        xlink:href="src/8771-010.jpg"
        width="1024"
        height="768"
@@ -1118,7 +1118,7 @@
      inkscape:label="00264"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8777-010.jpg"
+       
        xlink:href="src/8777-010.jpg"
        width="1024"
        height="768"
@@ -1154,7 +1154,7 @@
      inkscape:label="00266"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8811-010.jpg"
+       
        xlink:href="src/8811-010.jpg"
        width="1024"
        height="768"
@@ -1190,7 +1190,7 @@
      inkscape:label="00268"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8817-010.jpg"
+       
        xlink:href="src/8817-010.jpg"
        width="1024"
        height="768"
@@ -1226,7 +1226,7 @@
      inkscape:label="00270"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8838-010.jpg"
+       
        xlink:href="src/8838-010.jpg"
        width="1024"
        height="768"
@@ -1262,7 +1262,7 @@
      inkscape:label="00272"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8839-010.jpg"
+       
        xlink:href="src/8839-010.jpg"
        width="1024"
        height="768"
@@ -1298,7 +1298,7 @@
      inkscape:label="00274"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8841-010.jpg"
+       
        xlink:href="src/8841-010.jpg"
        width="1024"
        height="768"
@@ -1334,7 +1334,7 @@
      inkscape:label="00276"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8842-010.jpg"
+       
        xlink:href="src/8842-010.jpg"
        width="1024"
        height="768"
@@ -1376,7 +1376,7 @@
      inkscape:label="00278"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8774-010.jpg"
+       
        xlink:href="src/8774-010.jpg"
        width="1024"
        height="768"
@@ -1412,7 +1412,7 @@
      inkscape:label="00280"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8781-010.jpg"
+       
        xlink:href="src/8781-010.jpg"
        width="1024"
        height="768"
@@ -1448,7 +1448,7 @@
      inkscape:label="00282"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8778-010.jpg"
+       
        xlink:href="src/8778-010.jpg"
        width="1024"
        height="768"
@@ -1484,7 +1484,7 @@
      inkscape:label="00284"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8794-010.jpg"
+       
        xlink:href="src/8794-010.jpg"
        width="1024"
        height="768"
@@ -1520,7 +1520,7 @@
      inkscape:label="00286"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8785-010.jpg"
+       
        xlink:href="src/8785-010.jpg"
        width="1024"
        height="768"
@@ -1556,7 +1556,7 @@
      inkscape:label="00288"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8788-010.jpg"
+       
        xlink:href="src/8788-010.jpg"
        width="1024"
        height="768"
@@ -1592,7 +1592,7 @@
      inkscape:label="00290"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8792-010.jpg"
+       
        xlink:href="src/8792-010.jpg"
        width="1024"
        height="768"
@@ -1628,7 +1628,7 @@
      inkscape:label="00292"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8796-010.jpg"
+       
        xlink:href="src/8796-010.jpg"
        width="1024"
        height="768"
@@ -1664,7 +1664,7 @@
      inkscape:label="00294"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8797-010.jpg"
+       
        xlink:href="src/8797-010.jpg"
        width="1024"
        height="768"
@@ -1700,7 +1700,7 @@
      inkscape:label="00296"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8799-010.jpg"
+       
        xlink:href="src/8799-010.jpg"
        width="1024"
        height="768"
@@ -1736,7 +1736,7 @@
      inkscape:label="00298"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8800-010.jpg"
+       
        xlink:href="src/8800-010.jpg"
        width="1024"
        height="768"
@@ -1772,7 +1772,7 @@
      inkscape:label="00300"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8816-010.jpg"
+       
        xlink:href="src/8816-010.jpg"
        width="1024"
        height="768"
@@ -1808,7 +1808,7 @@
      inkscape:label="00302"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8818-010.jpg"
+       
        xlink:href="src/8818-010.jpg"
        width="1024"
        height="768"
@@ -1844,7 +1844,7 @@
      inkscape:label="00304"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8819-010.jpg"
+       
        xlink:href="src/8819-010.jpg"
        width="1024"
        height="768"
@@ -1880,7 +1880,7 @@
      inkscape:label="00306"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8821-010.jpg"
+       
        xlink:href="src/8821-010.jpg"
        width="1024"
        height="768"
@@ -1922,7 +1922,7 @@
      inkscape:label="00308"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8779-010.jpg"
+       
        xlink:href="src/8779-010.jpg"
        width="1024"
        height="768"
@@ -1958,7 +1958,7 @@
      inkscape:label="00310"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8801-010.jpg"
+       
        xlink:href="src/8801-010.jpg"
        width="1024"
        height="768"
@@ -1994,7 +1994,7 @@
      inkscape:label="00312"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8807-010.jpg"
+       
        xlink:href="src/8807-010.jpg"
        width="1024"
        height="768"
@@ -2030,7 +2030,7 @@
      inkscape:label="00314"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8810-010.jpg"
+       
        xlink:href="src/8810-010.jpg"
        width="1024"
        height="768"
@@ -2066,7 +2066,7 @@
      inkscape:label="00316"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8813-010.jpg"
+       
        xlink:href="src/8813-010.jpg"
        width="1024"
        height="768"
@@ -2102,7 +2102,7 @@
      inkscape:label="00318"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8814-010.jpg"
+       
        xlink:href="src/8814-010.jpg"
        width="1024"
        height="768"
@@ -2138,7 +2138,7 @@
      inkscape:label="00320"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8823-010.jpg"
+       
        xlink:href="src/8823-010.jpg"
        width="1024"
        height="768"
@@ -2174,7 +2174,7 @@
      inkscape:label="00322"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8825-010.jpg"
+       
        xlink:href="src/8825-010.jpg"
        width="1024"
        height="768"
@@ -2210,7 +2210,7 @@
      inkscape:label="00324"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8826-010.jpg"
+       
        xlink:href="src/8826-010.jpg"
        width="1024"
        height="768"
@@ -2246,7 +2246,7 @@
      inkscape:label="00326"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8827-010.jpg"
+       
        xlink:href="src/8827-010.jpg"
        width="1024"
        height="768"
@@ -2282,7 +2282,7 @@
      inkscape:label="00328"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8798-010.jpg"
+       
        xlink:href="src/8798-010.jpg"
        width="1024"
        height="768"
@@ -2318,7 +2318,7 @@
      inkscape:label="00330"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8829-010.jpg"
+       
        xlink:href="src/8829-010.jpg"
        width="1024"
        height="768"
@@ -2354,7 +2354,7 @@
      inkscape:label="00332"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8833-010.jpg"
+       
        xlink:href="src/8833-010.jpg"
        width="1024"
        height="768"
@@ -2396,7 +2396,7 @@
      inkscape:label="00334"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8789-010.jpg"
+       
        xlink:href="src/8789-010.jpg"
        width="1024"
        height="768"
@@ -2431,7 +2431,7 @@
      inkscape:label="00336"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8790-010.jpg"
+       
        xlink:href="src/8790-010.jpg"
        width="1024"
        height="768"
@@ -2466,7 +2466,7 @@
      inkscape:label="00338"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8802-010.jpg"
+       
        xlink:href="src/8802-010.jpg"
        width="1024"
        height="768"
@@ -2501,7 +2501,7 @@
      inkscape:label="00340"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8803-010.jpg"
+       
        xlink:href="src/8803-010.jpg"
        width="1024"
        height="768"
@@ -2536,7 +2536,7 @@
      inkscape:label="00342"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8805-010.jpg"
+       
        xlink:href="src/8805-010.jpg"
        width="1024"
        height="768"
@@ -2571,7 +2571,7 @@
      inkscape:label="00344"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8835-010.jpg"
+       
        xlink:href="src/8835-010.jpg"
        width="1024"
        height="768"
@@ -2606,7 +2606,7 @@
      inkscape:label="00346"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8836-010.jpg"
+       
        xlink:href="src/8836-010.jpg"
        width="1024"
        height="768"
@@ -2641,7 +2641,7 @@
      inkscape:label="00348"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8845-010.jpg"
+       
        xlink:href="src/8845-010.jpg"
        width="1024"
        height="768"
@@ -2676,7 +2676,7 @@
      inkscape:label="00350"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8844-010.jpg"
+       
        xlink:href="src/8844-010.jpg"
        width="1024"
        height="768"
@@ -2711,7 +2711,7 @@
      inkscape:label="00352"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8846-010.jpg"
+       
        xlink:href="src/8846-010.jpg"
        width="1024"
        height="768"
@@ -2765,7 +2765,7 @@
          id="flowPara4203">unfortunately it is not</flowPara><flowPara
          id="flowPara7707"
          style="fill:#cccccc">completely finished right now.</flowPara></flowRoot>    <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8757-010.jpg"
+       
        xlink:href="src/8757-010.jpg"
        width="1024"
        height="768"
@@ -2795,7 +2795,7 @@
          id="flowPara8470">completely finished right now.</flowPara><flowPara
          id="flowPara8474" /><flowPara
          id="flowPara8476">These images are from the first proof.</flowPara></flowRoot>    <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8847-010.jpg"
+       
        xlink:href="src/8847-010.jpg"
        style="display:inline"
        y="0"
@@ -2954,7 +2954,7 @@
          style="fill:#ececec">Something I've been</flowPara><flowPara
          id="flowPara6460"
          style="fill:#ececec">excited about since then.</flowPara></flowRoot>    <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409183553-010.png"
+       
        xlink:href="src/20160409183553-010.png"
        y="34"
        x="104"
@@ -2996,7 +2996,7 @@
        id="rect10265-6"
        inkscape:connector-curvature="0" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409183452-010.png"
+       
        xlink:href="src/20160409183452-010.png"
        y="34"
        x="104"
@@ -3157,7 +3157,7 @@
        id="g6993"
        transform="translate(-10,0)">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411110915-010.png"
+         
          xlink:href="src/20160411110915-010.png"
          y="32"
          x="170"
@@ -3192,7 +3192,7 @@
        id="g6993-2"
        transform="translate(-10,0)">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411110915-010.png"
+         
          xlink:href="src/20160411110915-010.png"
          y="32"
          x="170"
@@ -3233,7 +3233,7 @@
        id="g6985"
        transform="translate(40,0)">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411111205-010.png"
+         
          xlink:href="src/20160411111205-010.png"
          width="686"
          height="724"
@@ -3258,7 +3258,7 @@
          d="m 187,197 631,0 0,571 -631,0 z"
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411111205-010.png"
+         
          xlink:href="src/20160411111205-010.png"
          transform="translate(0,40)"
          clip-path="url(#clipPath6211)"
@@ -3281,7 +3281,7 @@
      id="g12399"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411111205-010.png"
+       
        xlink:href="src/20160411111205-010.png"
        style="display:inline"
        y="64"
@@ -3591,7 +3591,7 @@
          style="font-style:normal;-inkscape-font-specification:Roboto Mono Medium" /><flowPara
          id="flowPara3935"
          style="font-style:italic;-inkscape-font-specification:Roboto Mono Medium Italic">The desire for a little more complexity</flowPara></flowRoot>    <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409185242-020.png"
+       
        xlink:href="src/20160409185242-020.png"
        transform="translate(130,0)"
        clip-path="url(#clipPath12508)"
@@ -3601,7 +3601,7 @@
        x="97"
        y="33" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409185242-020.png"
+       
        xlink:href="src/20160409185242-020.png"
        transform="translate(-174,0)"
        y="33"
@@ -3678,7 +3678,7 @@
          id="flowPara8836">- to remember something</flowPara><flowPara
          style="font-style:italic;fill:#cccccc;-inkscape-font-specification:Roboto Mono Medium Italic"
          id="flowPara9733">- or to disable parts without deleting</flowPara></flowRoot>    <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       
        xlink:href="src/20160411162712-010.png"
        width="560"
        height="720"
@@ -3693,7 +3693,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       
        xlink:href="src/20160411162712-010.png"
        transform="translate(0,20)"
        clip-path="url(#clipPath13806-3)"
@@ -3704,7 +3704,7 @@
        y="13"
        style="display:inline" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       
        xlink:href="src/20160411162712-010.png"
        transform="translate(0,-100)"
        clip-path="url(#clipPath13802-0)"
@@ -3715,7 +3715,7 @@
        height="720"
        width="560" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       
        xlink:href="src/20160411162712-010.png"
        transform="translate(0,-111)"
        clip-path="url(#clipPath13796-4)"
@@ -3726,7 +3726,7 @@
        height="720"
        width="560" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       
        xlink:href="src/20160411162712-010.png"
        transform="translate(0,-123)"
        clip-path="url(#clipPath13790-9)"
@@ -3737,7 +3737,7 @@
        height="720"
        width="560" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       
        xlink:href="src/20160411162712-010.png"
        transform="translate(0,-132)"
        clip-path="url(#clipPath13784-1)"
@@ -3748,7 +3748,7 @@
        height="720"
        width="560" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       
        xlink:href="src/20160411162712-010.png"
        transform="translate(0,-142)"
        clip-path="url(#clipPath13778-6)"
@@ -3823,7 +3823,7 @@
        style="display:inline"
        id="g14111">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174322-010.png"
+         
          xlink:href="src/20160409174322-010.png"
          style="display:inline"
          y="16"
@@ -4004,7 +4004,7 @@
        style="display:inline"
        id="g14167">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409183553-010.png"
+         
          xlink:href="src/20160409183553-010.png"
          width="816"
          height="681"
@@ -4119,7 +4119,7 @@
        style="display:inline"
        id="g14275-2-0">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174818-010.png"
+         
          xlink:href="src/20160409174818-010.png"
          style="display:inline"
          y="31"
@@ -4258,7 +4258,7 @@
        id="g8373"
        style="display:inline">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174818-010.png"
+         
          xlink:href="src/20160409174818-010.png"
          width="913"
          height="706"
@@ -4439,7 +4439,7 @@
        id="g8461"
        style="display:inline">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174322-010.png"
+         
          xlink:href="src/20160409174322-010.png"
          width="715"
          height="732"
@@ -4525,7 +4525,7 @@
        id="g14275"
        transform="translate(0,820)">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174818-010.png"
+         
          xlink:href="src/20160409174818-010.png"
          style="display:inline"
          y="31"
@@ -4651,7 +4651,7 @@
        style="display:inline"
        id="g14111-0">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174322-010.png"
+         
          xlink:href="src/20160409174322-010.png"
          style="display:inline"
          y="16"
@@ -4833,7 +4833,7 @@
        id="g8229"
        style="display:inline">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174818-010.png"
+         
          xlink:href="src/20160409174818-010.png"
          width="913"
          height="706"
@@ -4962,7 +4962,7 @@
        style="display:inline"
        id="g14086-8">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174322-010.png"
+         
          xlink:href="src/20160409174322-010.png"
          style="display:inline"
          y="16"
@@ -5113,7 +5113,7 @@
        style="display:inline"
        id="g14229">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174818-010.png"
+         
          xlink:href="src/20160409174818-010.png"
          y="31"
          x="55"
@@ -5197,7 +5197,7 @@
        style="display:inline"
        id="g14275-2">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174818-010.png"
+         
          xlink:href="src/20160409174818-010.png"
          style="display:inline"
          y="31"
@@ -5391,7 +5391,7 @@
        id="g14153"
        transform="translate(1050,0)">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409183553-010.png"
+         
          xlink:href="src/20160409183553-010.png"
          width="816"
          height="681"
@@ -5415,7 +5415,7 @@
        style="display:inline"
        id="g14275-7">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409174818-010.png"
+         
          xlink:href="src/20160409174818-010.png"
          style="display:inline"
          y="31"
@@ -5607,7 +5607,7 @@
          x="225.05469"
          y="-1136.6367">TODO: screenshot filltxt.mdsh no comments</tspan></text>
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       
        xlink:href="src/20160411162712-010.png"
        width="560"
        height="720"
@@ -5622,7 +5622,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       
        xlink:href="src/20160411162712-010.png"
        transform="translate(0,20)"
        clip-path="url(#clipPath13806-3-0)"
@@ -5633,7 +5633,7 @@
        y="13"
        style="display:inline" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       
        xlink:href="src/20160411162712-010.png"
        transform="translate(0,-100)"
        clip-path="url(#clipPath13802-0-6)"
@@ -5644,7 +5644,7 @@
        height="720"
        width="560" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       
        xlink:href="src/20160411162712-010.png"
        transform="translate(0,-111)"
        clip-path="url(#clipPath13796-4-4)"
@@ -5655,7 +5655,7 @@
        height="720"
        width="560" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       
        xlink:href="src/20160411162712-010.png"
        transform="translate(0,-123)"
        clip-path="url(#clipPath13790-9-1)"
@@ -5666,7 +5666,7 @@
        height="720"
        width="560" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       
        xlink:href="src/20160411162712-010.png"
        transform="translate(0,-132)"
        clip-path="url(#clipPath13784-1-6)"
@@ -5677,7 +5677,7 @@
        height="720"
        width="560" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       
        xlink:href="src/20160411162712-010.png"
        transform="translate(0,-142)"
        clip-path="url(#clipPath13778-6-9)"
@@ -5739,7 +5739,7 @@
          x="225.05469"
          y="-1136.6367">TODO: screenshot filltxt.mdsh with comments</tspan></text>
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411162712-010.png"
+       
        xlink:href="src/20160411162712-010.png"
        width="560"
        height="720"
@@ -5966,7 +5966,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409185047-010.png"
+       
        xlink:href="src/20160409185047-010.png"
        width="715"
        height="732"
@@ -6005,7 +6005,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409185047-010.png"
+       
        xlink:href="src/20160409185047-010.png"
        y="18"
        x="159"
@@ -6058,7 +6058,7 @@
          id="flowPara16407">passed the manuscript to others for typesetting</flowPara><flowPara
          style="font-size:20px;font-style:italic;-inkscape-font-specification:Roboto Mono Medium Italic"
          id="flowPara16409">by hand. </flowPara></flowRoot>    <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409185047-010.png"
+       
        xlink:href="src/20160409185047-010.png"
        clip-path="url(#clipPath11199)"
        width="715"
@@ -6129,7 +6129,7 @@
      style="display:none"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411212026.png"
+       
        xlink:href="src/20160411212026.png"
        width="368"
        height="269"
@@ -6137,7 +6137,7 @@
        x="283"
        y="259" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409185047-010.png"
+       
        xlink:href="src/20160409185047-010.png"
        transform="translate(0,-90)"
        style="display:inline"
@@ -6200,7 +6200,7 @@
          x="78.332642"
          y="-1235.0352">TODO: marked up source (with instructions for typesetter)</tspan></text>
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411100604-010.jpg"
+       
        xlink:href="src/20160411100604-010.jpg"
        width="780"
        height="726"
@@ -6339,7 +6339,7 @@
          x="188.65295"
          y="-1121.7617">TODO: mdsh source</tspan></text>
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411144301-010.png"
+       
        xlink:href="src/20160411144301-010.png"
        width="482"
        height="742"
@@ -6353,7 +6353,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411144301-010.png"
+       
        xlink:href="src/20160411144301-010.png"
        y="13"
        x="271"
@@ -6390,7 +6390,7 @@
        id="path16716"
        inkscape:connector-curvature="0" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411144301-010.png"
+       
        xlink:href="src/20160411144301-010.png"
        width="482"
        height="742"
@@ -6405,7 +6405,7 @@
        style="color:#000000;fill:#ffffff;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:nodetypes="ccccc" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411144301-010.png"
+       
        xlink:href="src/20160411144301-010.png"
        transform="translate(10,-1240)"
        clip-path="url(#clipPath10249-3-0-2)"
@@ -6489,7 +6489,7 @@
          id="tspan16752"
          sodipodi:role="line">TODO: mdsh source</tspan></text>
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411144301-010.png"
+       
        xlink:href="src/20160411144301-010.png"
        y="13"
        x="91"
@@ -6532,7 +6532,7 @@
        style="color:#000000;fill:none;stroke:#ff0000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:nodetypes="ccccc" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411144413-010.gif"
+       
        xlink:href="src/20160411144413-010.gif"
        width="511"
        height="741"
@@ -8069,7 +8069,7 @@
          id="tspan12308"
          sodipodi:role="line">TODO: screenshot from conversations + source code</tspan></text>
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411172422-010.png"
+       
        xlink:href="src/20160411172422-010.png"
        y="-31"
        x="142"
@@ -8148,7 +8148,7 @@
          x="339.63672"
          y="-200.08203">TODO: screenshot from conversations + source code</tspan></text>
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411172422-010.png"
+       
        xlink:href="src/20160411172422-010.png"
        width="744"
        height="696"
@@ -8222,7 +8222,7 @@
      inkscape:label="01005"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160411173300-010.png"
+       
        xlink:href="src/20160411173300-010.png"
        transform="translate(0,-30)"
        clip-path="url(#clipPath12193)"
@@ -8250,7 +8250,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412172029-010.png"
+       
        xlink:href="src/20160412172029-010.png"
        y="84"
        x="251"
@@ -8312,7 +8312,7 @@
      id="g8207"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160413113151-010.gif"
+       
        xlink:href="src/20160413113151-010.gif"
        y="20"
        x="-37"
@@ -8320,7 +8320,7 @@
        height="681"
        width="948" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412172029-010.png"
+       
        xlink:href="src/20160412172029-010.png"
        width="638"
        height="720"
@@ -8388,7 +8388,7 @@
      inkscape:label="01012"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160413113151-010.gif"
+       
        xlink:href="src/20160413113151-010.gif"
        width="948"
        height="681"
@@ -8410,7 +8410,7 @@
      id="g8111"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8959-010.jpg"
+       
        xlink:href="src/8959-010.jpg"
        y="0"
        x="0"
@@ -8461,7 +8461,7 @@
      inkscape:label="01015"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8959-010.jpg"
+       
        xlink:href="src/8959-010.jpg"
        width="1024"
        height="768"
@@ -8512,7 +8512,7 @@
      inkscape:groupmode="layer"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412173253-010.png"
+       
        xlink:href="src/20160412173253-010.png"
        width="853"
        height="732"
@@ -8523,7 +8523,7 @@
        id="g18053"
        transform="translate(328,-304)">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412173003-010.png"
+         
          xlink:href="src/20160412173003-010.png"
          width="623"
          height="621"
@@ -8533,7 +8533,7 @@
          clip-path="url(#clipPath17968)"
          transform="translate(-107,-459)" />
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412173003-010.png"
+         
          xlink:href="src/20160412173003-010.png"
          y="-510"
          x="40"
@@ -8549,7 +8549,7 @@
          d="m -66,5 621,0 0,175 -621,0 z"
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412173003-010.png"
+         
          xlink:href="src/20160412173003-010.png"
          clip-path="url(#clipPath17976)"
          y="20"
@@ -8563,7 +8563,7 @@
        id="g8105"
        transform="translate(-193,90)">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412173003-010.png"
+         
          xlink:href="src/20160412173003-010.png"
          clip-path="none"
          y="289"
@@ -8584,7 +8584,7 @@
          d="m 328,371 537,0 0,50 -537,0 z"
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412173003-010.png"
+         
          xlink:href="src/20160412173003-010.png"
          width="623"
          height="621"
@@ -8612,7 +8612,7 @@
      id="g8414"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/8959-020.jpg"
+       
        xlink:href="src/8959-020.jpg"
        y="0"
        x="0"
@@ -8674,7 +8674,7 @@
        transform="translate(-190,170)"
        clip-path="url(#clipPath8532)">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412173003-010.png"
+         
          xlink:href="src/20160412173003-010.png"
          clip-path="none"
          y="289"
@@ -8695,7 +8695,7 @@
          d="m 328,371 537,0 0,50 -537,0 z"
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412173003-010.png"
+         
          xlink:href="src/20160412173003-010.png"
          width="623"
          height="621"
@@ -8715,7 +8715,7 @@
        transform="translate(328,-304)"
        id="g8424">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412173003-010.png"
+         
          xlink:href="src/20160412173003-010.png"
          transform="translate(-107,-459)"
          clip-path="url(#clipPath17968)"
@@ -8725,7 +8725,7 @@
          height="621"
          width="623" />
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412173003-010.png"
+         
          xlink:href="src/20160412173003-010.png"
          transform="translate(-107,397)"
          clip-path="url(#clipPath17986)"
@@ -8741,7 +8741,7 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412173003-010.png"
+         
          xlink:href="src/20160412173003-010.png"
          transform="translate(-107,-191)"
          width="623"
@@ -8756,7 +8756,7 @@
        id="g8434"
        style="opacity:0.5">
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412173003-010.png"
+         
          xlink:href="src/20160412173003-010.png"
          width="623"
          height="621"
@@ -8777,7 +8777,7 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
       <image
-         sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412173003-010.png"
+         
          xlink:href="src/20160412173003-010.png"
          transform="translate(0,-158)"
          clip-path="url(#clipPath6053)"
@@ -8823,7 +8823,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412172445-010.png"
+       
        xlink:href="src/20160412172445-010.png"
        y="22"
        x="58"
@@ -8874,7 +8874,7 @@
      id="g8646"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412172445-010.png"
+       
        xlink:href="src/20160412172445-010.png"
        width="906"
        height="720"
@@ -8932,7 +8932,7 @@
      style="display:none"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160413122235-010.gif"
+       
        xlink:href="src/20160413122235-010.gif"
        style="display:inline"
        y="31"
@@ -12498,7 +12498,7 @@
      id="g9312"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412202131-010.gif"
+       
        xlink:href="src/20160412202131-010.gif"
        transform="translate(-50,0)"
        clip-path="url(#clipPath7592)"
@@ -12508,7 +12508,7 @@
        x="686"
        y="63" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160412202131-010.gif"
+       
        xlink:href="src/20160412202131-010.gif"
        transform="translate(10,0)"
        clip-path="url(#clipPath7588)"
@@ -13278,7 +13278,7 @@
      inkscape:label="01320"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409182319-010.png"
+       
        xlink:href="src/20160409182319-010.png"
        width="913"
        height="769"
@@ -13315,7 +13315,7 @@
      id="g8883"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409182319-010.png"
+       
        xlink:href="src/20160409182319-010.png"
        y="-1"
        x="55"
@@ -13400,7 +13400,7 @@
      inkscape:label="01324"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409182319-010.png"
+       
        xlink:href="src/20160409182319-010.png"
        width="913"
        height="769"
@@ -13786,7 +13786,7 @@
          id="flowPara9632">it was added as 'interface'</flowPara><flowPara
          style="font-style:italic;-inkscape-font-specification:Roboto Mono Medium Italic"
          id="flowPara9634">but was not meant to replace anything</flowPara></flowRoot>    <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160413184441-010.png"
+       
        xlink:href="src/20160413184441-010.png"
        y="11"
        x="16"
@@ -13794,7 +13794,7 @@
        height="743"
        width="553" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160413184514-010.gif"
+       
        xlink:href="src/20160413184514-010.gif"
        y="27"
        x="474"
@@ -13886,7 +13886,7 @@
          id="flowPara9521">but not so much for editing</flowPara><flowPara
          style="font-style:italic;fill:#e6e6e6;-inkscape-font-specification:Roboto Mono Medium Italic"
          id="flowPara8928">but as intermediary format</flowPara></flowRoot>    <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409185842-010.png"
+       
        xlink:href="src/20160409185842-010.png"
        y="22"
        x="54"
@@ -13900,7 +13900,7 @@
      inkscape:label="01452"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409190028-010.png"
+       
        xlink:href="src/20160409190028-010.png"
        width="913"
        height="706"
@@ -13969,7 +13969,7 @@
      id="g11547"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409190154-010.png"
+       
        xlink:href="src/20160409190154-010.png"
        y="22"
        x="54"
@@ -14038,7 +14038,7 @@
      inkscape:label="01456"
      style="display:inline">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409190308-010.png"
+       
        xlink:href="src/20160409190308-010.png"
        width="913"
        height="706"
@@ -14107,7 +14107,7 @@
      id="g11655"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160409190308-010.png"
+       
        xlink:href="src/20160409190308-010.png"
        y="22"
        x="-36"
@@ -14115,7 +14115,7 @@
        height="706"
        width="913" />
     <image
-       sodipodi:absref="/home/christoph/0000_GIT/ch/talk/lgm2016/src/20160413203601-010.gif"
+       
        xlink:href="src/20160413203601-010.gif"
        y="77"
        x="479"
