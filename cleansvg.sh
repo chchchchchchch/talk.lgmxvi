@@ -4,6 +4,9 @@
 # SVG PATH      =  /home/christoph/0000_Projekte/SRV_BTSW/00_GIT/00/pages/03_030_kairus.svg
 # xlink:href="#SVGID_59_"
 
+# -> xlink:href="file: ??????
+
+
 # REMOVE SODIPODI IMAGE LINKS
 # REMOVE ABSOLUTE LINKS
 # REMOVE PERSONAL DATA
@@ -11,7 +14,7 @@
  XLINKID="xlink:href"
  REF=/tmp/ref${RANDOM}.tmp
 
-    SVG=$1
+    SVG=slides.svg
 
   # SAVE TIMESTAMP
     touch -r $SVG $REF
